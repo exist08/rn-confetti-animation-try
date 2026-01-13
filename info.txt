@@ -1,0 +1,3 @@
+Packages used in this project:-
+
+react-native-shadow-2
